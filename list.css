@@ -1,0 +1,28 @@
+td{
+    border: 2px solid aquamarine;
+}
+body{
+    background-color: rgb(37, 65, 56);
+}
+#para1{
+color: rgb(167, 217, 202);
+}
+ul{
+    color:  rgb(167, 217, 202);
+}
+caption{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+th{
+    color: azure;
+}
+td{
+    color: azure;
+}
+h1{
+    color: aquamarine;
+}
+header{
+    color: aquamarine;
+}
